@@ -9,9 +9,10 @@ profile:
   image: Reschensee.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Goethe University Frankfurt</p>
+    <p>Faculty of Economics and Business</p>
+    <p>Theodor-W.-Adorno-Platz 4</p>
+    <p>60323 Frankfurt am Main</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
