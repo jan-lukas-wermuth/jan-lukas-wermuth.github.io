@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jan-lukas-wermuth.github.io/al-folio/sitemap.xml
+Sitemap: https://jan-lukas-wermuth.github.io/sitemap.xml
