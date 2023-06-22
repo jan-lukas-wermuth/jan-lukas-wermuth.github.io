@@ -17,4 +17,7 @@ nav_order: 1
 
 </div>
 <h2>Work in Progress</h2>
-
+<ul>
+   <li>Measuring Dependence between Events, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a></li>
+   <li>Correlation Coefficients for Discrete Random Variables, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a></li>
+</ul>
