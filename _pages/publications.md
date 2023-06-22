@@ -8,7 +8,6 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<h1>Publications</h1>
 <div class="publications">
 
 {%- for y in page.years %}
@@ -17,3 +16,5 @@ nav_order: 1
 {% endfor %}
 
 </div>
+<h2>Work in Progress</h2>
+
