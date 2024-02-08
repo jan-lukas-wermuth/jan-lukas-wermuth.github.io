@@ -23,7 +23,7 @@ nav_order: 1
    <li>Modeling Illegal Drug Participation of Adolescents Through Distribution Regression, with <a href="https://sites.google.com/view/daniel-gutknecht/home">Daniel Gutknecht</a> and Cenchen Liu</li>
    <li>Generalised Residual Diagnostics, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a>, <a href="https://econstat.statistik.tu-dortmund.de/lehrstuhl/arbeitsgruppe/demetrescu/">Matei Demetrescu</a> and <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a></li>
    <li>Autocorrelations for Ordinal Random Variables, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a> and <a href="https://www.hsu-hh.de/mathstat/">Christian H. Weiß</a></li>
-   <li>Correlation Coefficients for Nominal Random Variables</a></li>
+   <li>Correlation Coefficients for Nominal Random Variables</li>
 </ul>
 
 
