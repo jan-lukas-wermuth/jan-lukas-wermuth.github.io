@@ -18,7 +18,7 @@ nav_order: 1
 </div>
 <h2>Working Papers</h2>
 <ul>
-   <li>Measuring Dependence between Events, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a> and <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a> (2024), <a href="https://arxiv.org/abs/2403.17580">Paper</a>, <a href="https://github.com/jan-lukas-wermuth/BCor">R package</a>, <a href="https://github.com/jan-lukas-wermuth/replication BCor">Replication Material</a></li>
+   <li>Measuring Dependence between Events, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a> and <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a> (2024), <a href="https://arxiv.org/abs/2403.17580">Paper</a>, <a href="https://github.com/jan-lukas-wermuth/BCor">R package</a>, <a href="https://github.com/jan-lukas-wermuth/replication_BCor">Replication Material</a></li>
 </ul>
 
 <h2>Work in Progress</h2>
