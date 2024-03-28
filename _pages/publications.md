@@ -21,7 +21,6 @@ nav_order: 1
    <li>Measuring Dependence between Events, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a> and <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a> (2024), <a href="https://arxiv.org/abs/2403.17580">Paper</a>, <a href="https://github.com/jan-lukas-wermuth/BCor">R package</a>, <a href="https://github.com/jan-lukas-wermuth/replication BCor">Replication Material</a></li>
 </ul>
 
-</div>
 <h2>Work in Progress</h2>
 <ul>
    <li>Correlation Coefficients for Discrete Random Variables, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a></li>
