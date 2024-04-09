@@ -6,7 +6,7 @@ subtitle: PhD student in Statistics
 
 profile:
   align: right
-  image: Reschensee.jpeg
+  image: Swimming.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Goethe University Frankfurt</p>
