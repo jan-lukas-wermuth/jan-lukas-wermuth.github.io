@@ -20,6 +20,7 @@ nav_order: 1
 <ul>
    <li>Measuring Dependence between Events, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a> and <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a> (2024), <a href="https://arxiv.org/abs/2403.17580">Paper</a>, <a href="https://github.com/jan-lukas-wermuth/BCor">R Package</a>, <a href="https://github.com/jan-lukas-wermuth/replication_BCor">Replication Material</a></li>
    <li>Modeling Illegal Drug Participation of Adolescents Through Distribution Regression, with <a href="https://sites.google.com/view/daniel-gutknecht/home">Daniel Gutknecht</a> and Cenchen Liu (2024), <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4904286">Paper</a>, <a href="https://github.com/jan-lukas-wermuth/replication_DRmisr">Replication Material</a></li>
+   <li>Proper Correlation Coefficients for Nominal Random Variables (2025), <a href="https://arxiv.org/abs/2505.00785">Paper</a>, <a href="https://github.com/jan-lukas-wermuth/NCor">R Package</a>, <a href="https://github.com/jan-lukas-wermuth/replication_NCor">Replication Material</a></li>
 </ul>
 
 <h2>Work in Progress</h2>
