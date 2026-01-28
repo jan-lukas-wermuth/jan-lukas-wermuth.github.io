@@ -29,7 +29,7 @@ nav_order: 1
    <li>Proper Correlation Coefficients for Discrete Random Variables, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a></li>
    <li>Generalised Residual Diagnostics, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a>, <a href="https://econstat.statistik.tu-dortmund.de/lehrstuhl/arbeitsgruppe/demetrescu/">Matei Demetrescu</a> and <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a></li>
    <li>Rank Autocorrelations, with <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a> and <a href="https://www.hsu-hh.de/mathstat/">Christian H. Weiß</a></li>
-   <li>Asymptotic Inference for Signed Correlation Coefficients, with <a href="https://www.h-its.org/de/people/prof-dr-tilmann-gneiting/">Tilmann Gneiting</a>, <a href="https://www.h-its.org/de/people/alexander-jordan/">Alexander I. Jordan</a> and <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a>
+   <li>Asymptotic Inference for Signed Correlation Coefficients, with <a href="https://www.h-its.org/de/people/prof-dr-tilmann-gneiting/">Tilmann Gneiting</a>, <a href="https://www.h-its.org/de/people/alexander-jordan/">Alexander I. Jordan</a> and <a href="https://sites.google.com/view/marcpohle/home">Marc-Oliver Pohle</a></li>
    <li>Asymptotic Confidence Sequences for Sequential Forecast Comparison with Unbounded Score Differences, with <a href="https://sites.google.com/view/timodimitriadis">Timo Dimitriadis</a> and <a href="https://people.math.ethz.ch/~ziegelj/">Johanna Ziegel</a></li>
 </ul>
 
